@@ -1,2 +1,2 @@
 # hello-world
-kmzzyong is hello world
+this is kmzzong's hello world examples.
